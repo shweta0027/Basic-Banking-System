@@ -19,6 +19,7 @@ $result=mysqli_query($con,$q);
 	<style>
 body{
 	background-image: url("images/101.jpg");
+	background-size: 100%;
 }
 </style>
 	
