@@ -36,17 +36,7 @@
 	  
 	   </div>
 	    </div>
- <!-- 	 <div class="button">
-    <div class="container">
-	<table>
-	<tr>
-      <a href="#" class="btn">Cusails</a>
 
-	  </tr>
-	  
-	   </div>
-	    </div>
-  -->
 
   </body>
 </html>
