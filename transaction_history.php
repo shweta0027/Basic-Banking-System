@@ -27,10 +27,10 @@ body{
 	<body>
 	
 	  <div class="topnav">
- <a href="#contact">Contact</a>
-  <a href="transaction_history.php">Transaction History</a>
+ <a href="#contact">ABOUT US</a>
+  <a href="transaction_history.php">TRANSACTION HISTORY</a>
   
- <a href="index.php"><i class="fa fa-home"></i>Home</a>
+ <a href="index.php"><i class="fa fa-home"></i>HOME</a>
 </div>
 	
 	
