@@ -12,7 +12,7 @@
   <body>
   
   <div class="topnav">
- <a href="#contact">Contact</a>
+ <a href="#contact">ABOUT US</a>
   <a href="transaction_history.php">Transaction History</a>
   
  <a class="active" href="index.php"><i class="fa fa-home"></i>Home</a>
