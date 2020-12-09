@@ -24,7 +24,7 @@
 	   <br>
 	   <br>
 	   <br>
-       <h2 style=" font-family:Arial narrow ; font-size: 70px;color:#000;text-shadow: 3px 3px red;"> Basic Banking System </h2>
+       <h2 style=" font-family:Merriweather ; font-size: 70px;color:red;text-shadow: 4px 4px black;"> Basic Banking System </h2>
     </div>
   <div class="button">
     <div class="container">
