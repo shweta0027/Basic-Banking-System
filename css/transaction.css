@@ -1,6 +1,6 @@
 	html,body
 	{
-		hight:100%;
+		hEight:100%;
 	}
 		.buttons{
 			text-align:center;
@@ -10,7 +10,7 @@
 			list-style-type: none;
 			margin: 0;
 			padding: 5px;
-			verflow: hidden;
+			overflow: hidden;
 			
 			}
 
@@ -31,7 +31,7 @@
 			background-image:url("images/2.jpg");
 			background-repeat: no-repeat;
 			background-size:cover;
-			hight:100%;
+			height:100%;
 		}
 		table{
 			text-align:center;
@@ -49,7 +49,6 @@
 		
 		td{
 			font-size:23px;
-			color: ;
 			padding: 10px 20px 10px 22px;
 		}
 		tr{
@@ -88,4 +87,5 @@
 		.btn{
 			cursor:pointer;
 		}
+	
 	
