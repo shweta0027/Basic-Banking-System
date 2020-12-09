@@ -20,6 +20,7 @@ $row_count=mysqli_num_rows($result);
 	<style>
 body{
 	background-image: url("images/25.png");
+		background-size: 100%;
 }
 </style>
    
