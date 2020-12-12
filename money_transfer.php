@@ -21,7 +21,7 @@ $result=mysqli_query($con,$q);
 		
 	<style>
 body{
-	background-image: url("images/31.jpg");
+	background-image: url("images/14.jpg");
 	text-align: center;
 }
 
@@ -43,12 +43,12 @@ body{
 
 	<center>
 		<div class="view">
-			<br><br><h2 style=" font-size:45px;color:red;text-shadow: 2px 2px white;">Transfer Amount</h2>
+			<br><br><h2 style=" font-size:45px;color:black;text-shadow: 2px 2px white;">Transfer Amount</h2>
 			<form action="checkcredit.php" method="post" >
 				<div class="border">
 				<table>
 					<tr>
-						<td style="font-size:15pt;color:#fff;">
+						<td style="font-size:15pt;color:#000;">
 						<label for="sender" align="left">RECEIVER'S NAME:</label>
 							&nbsp; <select name="receiver" style="font-size: 12pt; height: 28px; width:290px;">
            <?php while($row = $result->fetch_assoc()) { ?>
@@ -58,7 +58,7 @@ body{
 		</tr><br>
 		<tr>
 			<td>
-			<br><label for="transfer" style="font-size:15pt;color:#fff;" > AMOUNT:</label> 
+			<br><label for="transfer" style="font-size:15pt;color:#000;" > AMOUNT:</label> 
 			&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;<input type="number" name="transfer" style="font-size: 12pt; height: 28px; width:290px;" min="0" required></td>
 		</tr>
        <tr>
